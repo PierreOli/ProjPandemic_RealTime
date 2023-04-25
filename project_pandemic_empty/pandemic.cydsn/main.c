@@ -1,6 +1,6 @@
 /* ========================================
  *
- *              ELECH410 labs
+ *              ELECH410 lab
  *          FreeRTOS pandemic project
  * 
  *                   2020
